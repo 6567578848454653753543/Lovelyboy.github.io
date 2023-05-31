@@ -1,0 +1,9 @@
+*{background-color: #ff00a6;
+color: aliceblue;}
+.div img{
+     height: 50% ;
+width: 20%;
+}
+.div {
+    display: flex;
+}
